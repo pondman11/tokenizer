@@ -3,3 +3,14 @@ venv/
 logs/ 
 models/ 
 data/ 
+__pycache__/ 
+*.pyc 
+*.pyo 
+*.pyd 
+venv/ 
+.env 
+logs/ 
+models/ 
+data/ 
+datasets/ 
+notebooks/.ipynb_checkpoints/ 
